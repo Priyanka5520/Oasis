@@ -89,9 +89,9 @@ java ATMInterface
 
 ## 👨‍💻 Author
 
-**Your Name**
-🔗 https://github.com/your-username
-📧 [your-email@example.com](mailto:your-email@example.com)
+Priyanka Anil Shinde
+🔗 https://github.com/Priyanka5520
+📧 priyankashinde5520@gmail.com
 
 ---
 
